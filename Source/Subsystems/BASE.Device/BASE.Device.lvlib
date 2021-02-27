@@ -8,6 +8,7 @@
 		<Item Name="CheckConnection Msg.lvclass" Type="LVClass" URL="../BASE.Device Messages/CheckConnection Msg/CheckConnection Msg.lvclass"/>
 		<Item Name="Connect Msg.lvclass" Type="LVClass" URL="../BASE.Device Messages/Connect Msg/Connect Msg.lvclass"/>
 		<Item Name="Disconnect Msg.lvclass" Type="LVClass" URL="../BASE.Device Messages/Disconnect Msg/Disconnect Msg.lvclass"/>
+		<Item Name="ReadDeviceState Msg.lvclass" Type="LVClass" URL="../BASE.Device Messages/ReadDeviceState Msg/ReadDeviceState Msg.lvclass"/>
 	</Item>
 	<Item Name="BASE.Device.lvclass" Type="LVClass" URL="../BASE.Device/BASE.Device.lvclass"/>
 </Library>
