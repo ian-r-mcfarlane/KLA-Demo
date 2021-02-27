@@ -4,6 +4,10 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">419463168</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Item Name="Abstract Messages for Caller" Type="Folder"/>
-	<Item Name="Messages for this Actor" Type="Folder"/>
+	<Item Name="Messages for this Actor" Type="Folder">
+		<Item Name="CheckConnection Msg.lvclass" Type="LVClass" URL="../BASE.Device Messages/CheckConnection Msg/CheckConnection Msg.lvclass"/>
+		<Item Name="Connect Msg.lvclass" Type="LVClass" URL="../BASE.Device Messages/Connect Msg/Connect Msg.lvclass"/>
+		<Item Name="Disconnect Msg.lvclass" Type="LVClass" URL="../BASE.Device Messages/Disconnect Msg/Disconnect Msg.lvclass"/>
+	</Item>
 	<Item Name="BASE.Device.lvclass" Type="LVClass" URL="../BASE.Device/BASE.Device.lvclass"/>
 </Library>
