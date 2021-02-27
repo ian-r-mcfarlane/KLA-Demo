@@ -12,8 +12,8 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Main-Temp.vi" Type="VI" URL="../Main-Temp.vi"/>
-		<Item Name="CORE.lvlib" Type="Library" URL="../Subsystems/CORE/CORE.lvlib"/>
-		<Item Name="CORE.Device.lvlib" Type="Library" URL="../Subsystems/CORE.Device/CORE.Device.lvlib"/>
+		<Item Name="BASE.lvlib" Type="Library" URL="../Subsystems/BASE/BASE.lvlib"/>
+		<Item Name="BASE.Device.lvlib" Type="Library" URL="../BASE.Device/BASE.Device.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Actor Framework.lvlib" Type="Library" URL="/&lt;vilib&gt;/ActorFramework/Actor Framework.lvlib"/>
