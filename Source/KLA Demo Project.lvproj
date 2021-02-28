@@ -12,7 +12,7 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Main-Temp.vi" Type="VI" URL="../Main-Temp.vi"/>
-		<Item Name="Main-Basic.vi" Type="VI" URL="../Subsystems/BASE.Device/BASE.Device/Main-Basic.vi"/>
+		<Item Name="Main-Basic.vi" Type="VI" URL="../Main-Basic.vi"/>
 		<Item Name="BASE.lvlib" Type="Library" URL="../Subsystems/BASE/BASE.lvlib"/>
 		<Item Name="BASE.Device.lvlib" Type="Library" URL="../Subsystems/BASE.Device/BASE.Device.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
@@ -114,6 +114,7 @@
 				<Item Name="Convert File Extension (String)__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/file/file.llb/Convert File Extension (String)__ogtk.vi"/>
 				<Item Name="Convert File Extension (Path)__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/file/file.llb/Convert File Extension (Path)__ogtk.vi"/>
 				<Item Name="Convert File Extension__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/file/file.llb/Convert File Extension__ogtk.vi"/>
+				<Item Name="Wait (ms)__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/time/time.llb/Wait (ms)__ogtk.vi"/>
 			</Item>
 			<Item Name="AF Debug.lvlib" Type="Library" URL="/&lt;resource&gt;/AFDebug/AF Debug.lvlib"/>
 			<Item Name="systemLogging.dll" Type="Document" URL="systemLogging.dll">
