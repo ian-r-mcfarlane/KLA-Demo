@@ -15,6 +15,7 @@
 		<Item Name="Main-Basic.vi" Type="VI" URL="../Main-Basic.vi"/>
 		<Item Name="BASE.lvlib" Type="Library" URL="../Subsystems/BASE/BASE.lvlib"/>
 		<Item Name="BASE.Device.lvlib" Type="Library" URL="../Subsystems/BASE.Device/BASE.Device.lvlib"/>
+		<Item Name="Device.Simulation.lvlib" Type="Library" URL="../Device.Simulation/Device.Simulation.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Actor Framework.lvlib" Type="Library" URL="/&lt;vilib&gt;/ActorFramework/Actor Framework.lvlib"/>
